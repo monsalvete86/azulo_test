@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "airport1",
+        "airport_code": "001",
+        "airport_operator_id": 1,
+        "location_id": 1,
+        "priority_order": 1
+    },
+    {
+        "id": 2,
+        "name": "airport2",
+        "airport_code": "002",
+        "airport_operator_id": 1,
+        "location_id": 1,
+        "priority_order": 2
+    },
+    {
+        "id": 3,
+        "name": "airport3",
+        "airport_code": "003",
+        "airport_operator_id": 2,
+        "location_id": 2,
+        "priority_order": 3
+    }
+]
