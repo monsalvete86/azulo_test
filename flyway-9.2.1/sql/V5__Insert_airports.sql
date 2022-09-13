@@ -1,0 +1,10 @@
+INSERT INTO airport (id,name,airport_operator_id,airport_code,location_id,priority_order) VALUES (13,'Airport 1',1,'001',1,6);
+INSERT INTO airport (id,name,airport_operator_id,airport_code,location_id,priority_order) VALUES (14,'Airport 2',2,'002',2,4);
+INSERT INTO airport (id,name,airport_operator_id,airport_code,location_id,priority_order) VALUES (15,'Airport 3',2,'003',2,3);
+INSERT INTO airport (id,name,airport_operator_id,airport_code,location_id,priority_order) VALUES (16,'Airport 4',3,'004',3,3);
+INSERT INTO airport (id,name,airport_operator_id,airport_code,location_id,priority_order) VALUES (17,'Airport 5',3,'005',3,4);
+INSERT INTO airport (id,name,airport_operator_id,airport_code,location_id,priority_order) VALUES (18,'Airport 6',3,'006',3,5);
+INSERT INTO airport (id,name,airport_operator_id,airport_code,location_id,priority_order) VALUES (19,'Airport 7',4,'007',4,6);
+INSERT INTO airport (id,name,airport_operator_id,airport_code,location_id,priority_order) VALUES (20,'Airport 8',5,'008',5,7);
+INSERT INTO airport (id,name,airport_operator_id,airport_code,location_id,priority_order) VALUES (21,'Airport 9',6,'009',6,8);
+INSERT INTO airport (id,name,airport_operator_id,airport_code,location_id,priority_order) VALUES (22,'Airport 10',7,'010',7,9);
