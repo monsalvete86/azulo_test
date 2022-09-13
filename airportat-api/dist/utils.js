@@ -1,4 +1,5 @@
-import { NewAirportEntry } from "./types";
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 /*{
             name,
             airport_code,
@@ -8,6 +9,6 @@ import { NewAirportEntry } from "./types";
         } */
 /*
 const toNewAirportEntry = (object: any): NewAirportEntry {
-  const 
+  const
 }
-export default toNewAirportEntry;*/
+export default toNewAirportEntry;*/ 
